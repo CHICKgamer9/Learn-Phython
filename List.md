@@ -2,6 +2,11 @@
 1. Intractive "Hello World"
 	- Print to consel
 	- Accept user input
+	------------
+	
+	DONE - Accepted Name and age. Gave feedback depending on age.
+
+	---
 2. Simple calculator
 	- 4 basic oparatsions
 	- loop untill user exits
